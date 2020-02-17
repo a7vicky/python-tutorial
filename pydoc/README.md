@@ -8,7 +8,7 @@
 
 - [Multiline Comment](https://github.com/garbagego/python/blob/master/pydoc/README.md#multiline-comments-in-python)
 
-## Multiline comments in Python
+### Multiline comments in Python
 
 As part of the Python course it is taught that in order to do a multiline comment one should use """triple quotes""". This is wrong. Python only has one way of doing comments and that is using #.
 
