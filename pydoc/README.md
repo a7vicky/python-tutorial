@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-- [MultilineComment] (#Multiline comments in Python)
+- [Multiline Comment](https://github.com/garbagego/python/blob/master/pydoc/README.md#multiline-comments-in-python)
 
 ## Multiline comments in Python
 
