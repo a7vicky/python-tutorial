@@ -7,8 +7,11 @@
 ## Table of Contents
 
 - [Multiline Comment](https://github.com/garbagego/python/blob/master/pydoc/README.md#multiline-comments-in-python)
+- [Decorator](https://www.datacamp.com/community/tutorials/decorators-python)
+- [Docstring](https://www.datacamp.com/community/tutorials/docstrings-python)
+- []
 
-### Multiline comments in Python
+## Multiline comments in Python
 
 As part of the Python course it is taught that in order to do a multiline comment one should use """triple quotes""". This is wrong. Python only has one way of doing comments and that is using #.
 
@@ -19,3 +22,7 @@ The only exception to the garbage collection fact is when they are placed immedi
 Due to the existance of docstrings I've seen a lot of people confused about the use of """ elsewhere.
 
 I suggest that the multiline comment lesson is removed or replaced with the instructions from the official PEP8 - [Block comments section.](http://www.python.org/dev/peps/pep-0008/#block-comments)
+
+### Decorator
+
+
