@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-[TOC]
+- [Multiline comments in Python](#Multiline comments in Python)
 
 ## Multiline comments in Python
 
