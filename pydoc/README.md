@@ -9,6 +9,7 @@
 - [Multiline Comment](https://github.com/garbagego/python/blob/master/pydoc/README.md#multiline-comments-in-python)
 - [Decorator](https://www.datacamp.com/community/tutorials/decorators-python)
 - [Docstring](https://www.datacamp.com/community/tutorials/docstrings-python)
+- [Reverse string](https://dbader.org/blog/python-reverse-string)
 
 ## Multiline comments in Python
 
